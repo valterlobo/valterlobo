@@ -2,7 +2,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valterlobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterlobo&layout=compact&langs_count=8&theme=dracula&hide=Visual basic"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterlobo&layout=compact&langs_count=8&theme=dracula&hide=Visual basic,html"/>
   
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=valterlobo&theme=tokyonight&hide_border=true" />
 
@@ -14,7 +14,6 @@
 <hr>
 
 <summary>💻 Top Languages</summary> -->
-
 
  </div>
 
@@ -39,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"  />
   
 </div>
-
+<hr>
 ## 👨‍💻 Databases
 
    <div style="display: inline_block"><br>  
@@ -55,7 +54,7 @@
 <img alt="microsoftsqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   
 </div>
-
+<hr>
 ## 👨‍💻 Technologies
 
  <div style="display: inline_block"><br>  
