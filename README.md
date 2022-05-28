@@ -6,7 +6,11 @@
   
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=valterlobo&theme=tokyonight&hide_border=true" />
 
- </div>
+[![linkedin](https://img.shields.io/badge/-@valterlobo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/valterlobo/)](https://www.linkedin.com/in/valterlobo/)
+[![twitter](https://img.shields.io/badge/-@valterlobo1-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=twitter&amp;link=https://twitter.com/valterlobo1/)](https://twitter.com/valterlobo1/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valterlobo.valterlobo)
+
+</div>
 <div align="center">
  <hr>
 <!-- </details>
