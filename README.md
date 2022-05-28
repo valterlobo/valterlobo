@@ -39,6 +39,7 @@
   
 </div>
 <hr>
+
 ## 👨‍💻 Databases
 
    <div style="display: inline_block"><br>  
@@ -55,6 +56,7 @@
   
 </div>
 <hr>
+
 ## 👨‍💻 Technologies
 
  <div style="display: inline_block"><br>  
@@ -77,7 +79,7 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
 </div>
-
+<hr>
 <!--
 examples : https://github.com/cankush625/cankush625 
 **valterlobo/valterlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
